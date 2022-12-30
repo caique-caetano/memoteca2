@@ -1,22 +1,10 @@
 {
   "pensamentos": [
     {
-      "id":1,
-      "conteudo":"Que bom que você veio",
-      "autoria":"Caique",
-      "modelo":"modelo1"
-    },
-    {
-      "id":2,
-      "conteudo":"Que bom que você veio",
-      "autoria":"Caique",
-      "modelo":"modelo3"
-    },
-    {
-      "id":3,
-      "conteudo":"Backend Angular",
-      "autoria":"Alura Dev",
-      "modelo":"modelo2"
+      "conteudo": "Excluir funcionando corretamente",
+      "autoria": "Caique",
+      "modelo": "modelo1",
+      "id": 1
     }
   ]
 }
