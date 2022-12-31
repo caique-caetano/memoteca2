@@ -9,7 +9,7 @@ import { Observable } from 'rxjs';
 })
 export class PensamentoService {
 
-  private readonly API = 'http://localhost:3000/pensamentos'
+  private readonly API = 'https://db-pensamentos.vercel.app/pensamentos'
 
   constructor(private http: HttpClient) { }
 
